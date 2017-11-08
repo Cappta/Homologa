@@ -1,4 +1,4 @@
-**Olá Desenvolvedor!*
+**Olá Desenvolvedor!**
 _Aqui você encontra os exemplos de códigos para integração com as soluções da CAPPTA_
 
 Para Softwares Web:
