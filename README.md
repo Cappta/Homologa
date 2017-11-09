@@ -7,6 +7,8 @@ _Aqui você encontra os exemplos de códigos para integração com as soluções
 JavaScript
 https://github.com/Cappta/Cappta.Gp.API.JavaScript.Samples
 
+Documentação disponível em: http://docs.js.cappta.com.br/v1.0/reference
+
 ------------------------------------------------------------
 
 **Para Softwares Windows Desktop:**
