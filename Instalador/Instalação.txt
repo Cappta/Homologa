@@ -24,7 +24,7 @@ Erros durante a instalação:
 1- Se por ventura o GP ficar inativo, apenas aguardando o carregamento de pacotes acima de 10 minutos
 é provavel que você tenha instalado o Warsaw e ou GbPlugin. Desinstale primeiro estes softwares em seguida prossiga com a instalação.
 
-2- Para erros genéricos e falhas no carregamento é provavel que as politicas de segurança da sua rede estejam impedindo a instalação, contate a infra da sua empresa e peça para desbloquearem as [portas](https://github.com/Cappta/Homologa/blob/master/Instalador/Desbloqueios%20Necess%C3%A1rios%20CapptaGpPlus.xlsx)
+2- Para erros genéricos e falhas no carregamento é provavel que as politicas de segurança da sua rede estejam impedindo a instalação, contate a infra da sua empresa e peça para desbloquearem as portas, segue um link com as informações necessárias. https://github.com/Cappta/Homologa/blob/master/Instalador/Desbloqueios%20Necess%C3%A1rios%20CapptaGpPlus.xlsx)
 
 Instalação:
 
@@ -37,7 +37,7 @@ Instalação:
 7º Na aba TEF escolha a opção que deseja fazer a Integração
 8º Salve as alterações 
 
-Se precisar este [link](http://docs.desktop.cappta.com.br/v1.0/reference#ambiente-de-testes-1) o conduzira a uma ilustração da instalação.
+Se precisar este link: http://docs.desktop.cappta.com.br/v1.0/reference#ambiente-de-testes-1) o conduzira a uma ilustração da instalação.
 
 Nossos contatos:
 
