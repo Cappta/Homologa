@@ -1,0 +1,46 @@
+**Instalação CapptaGpPlus**
+
+Para istalar o Cappta é necessário
+
+1- CNPJ
+2- PDV 
+3- Senha 
+
+Estes dados são enviados no seu e-mail após a confirmação de intenção em homologar.
+
+Atenção após a instalação você tem um prazo de até 30 dias para conclusão. Após este prazo tera que nos devolver o Pinpad e o ambiente é cancelado
+
+
+O instalador da Cappta é bem simples, se porventura ocorrer algo durante a instalação entre em contato.
+
+Necessário:
+
+1- Internet no mínimo 2 MG
+2- Espaço de 100 MG
+
+Erros durante a instalação:
+
+1- Se por ventura o GP ficar inativo, apenas aguardando o carregamento de pacotes durante acima de 10 minutos
+é provavel que você tenha instalado o Warsaw e ou GbPlugin. Desinstale primeiro estes softwares em seguida prossiga com a instalação.
+
+2- Para erros genéricos e falhas no carregamento é provavel que sua rede esteja impedindo a instalação, contate a infra da sua empresa e peça para desbloquearem as portas.
+https://github.com/Cappta/Homologa/blob/master/Instalador/Desbloqueios%20Necess%C3%A1rios%20CapptaGpPlus.xlsx
+
+Instalação:
+
+1º Execute o Instalador como administrador
+2º coloque os dados citados acima e clique em avançar
+3º Confirme os dados e escolha o modelo do Pinpad (Gertec ou Ingênico)
+4° Aguarde a instalação e em seguida inicialize o CapptaGpPlus
+5º Após a inicialização, com o botão direito do mouse sobre o GP na barra de ferramentas clique e escolha a opção Configurações.
+6º Entre em contato com o time e peça a senha do Dia.
+7º Na aba TEF escolha a opção que deseja fazer a Integração
+8º Salve as alterações 
+
+Se precisar este [link](http://docs.desktop.cappta.com.br/v1.0/reference#ambiente-de-testes-1) o conduzira a uma ilustração da instalação.
+
+Nossos contatos:
+
+Telefone: (11) 4302-6179
+Skype: homologa.cappta1
+e-mail: homologa@cappta.com.br
