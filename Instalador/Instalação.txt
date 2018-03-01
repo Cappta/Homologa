@@ -1,4 +1,4 @@
-**Instalação CapptaGpPlus**
+Instalação CapptaGpPlus
 
 Para istalar o Cappta é necessário
 
