@@ -4,6 +4,8 @@
 
 _Aqui você encontra os exemplos de códigos para integração com as soluções da CAPPTA_
 
+Obs: Obs: Atenção os dados de instalação só podem ser utilizados em uma máquina, se precisar instalar em outro computador deve desinstalar primeiro
+
 **Para Softwares Web:**
 
 JavaScript
