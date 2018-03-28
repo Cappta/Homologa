@@ -6,6 +6,8 @@ Para istalar o Cappta é necessário
 2- PDV 
 3- Senha 
 
+Obs: Atenção os dados de instalação só podem ser utilizados em uma máquina, se precisar instalar em outro computador deve desinstalar primeiro
+
 Estes dados são enviados no seu e-mail após a confirmação de intenção em homologar.
 
 Atenção após a instalação você tem um prazo de até 30 dias para conclusão. Após este prazo tera que nos devolver o Pinpad e o ambiente
