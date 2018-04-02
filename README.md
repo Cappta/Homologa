@@ -1,25 +1,10 @@
-**Instalação CapptaGpPlus**
-
-Para istalar o Cappta é necessário CNPJ, PDV e Chave de autenticação estes são fornecidos pelo time de integrações, verifique sua caixa de e-mail.
-
-Após preencher os campos necessários, você sera conduzido para a próxima etapa que é a confirmação dos dados e a escolha do Pinpad (Gertec ou Ingênico), basta olhar em baixo do mesmo.
-
-Depois de instalado inicie o GP. Entre em contato com o time, utilizando qualquer canal disponivel e solicite  a senha do dia para configurar o GP para o modo de integração que ira utilizar.
-
-Se precisar este [link](http://docs.desktop.cappta.com.br/v1.0/reference#ambiente-de-testes-1) o conduzira a uma ilustração da instalação.
-
-Nossos contatos:
-
-Telefone: (11) 4302-6179
-Skype: homologa.cappta1
-e-mail: homologa@cappta.com.br
-
-
 
 
 **Olá Desenvolvedor!**
 
 _Aqui você encontra os exemplos de códigos para integração com as soluções da CAPPTA_
+
+ Obs: Atenção os dados de instalação só podem ser utilizados em uma máquina, se precisar instalar em outro computador deve desinstalar primeiro
 
 **Para Softwares Web:**
 
