@@ -23,6 +23,9 @@ https://github.com/Cappta/Cappta.Gp.API.CSharp.Samples
 Delphi
 https://github.com/Cappta/Cappta.Gp.API.Delphi.Samples
 
+Delphi 2010
+https://github.com/Cappta/Cappta.Gp.API.Delphi2010.Samples
+
 Lazarus
 https://github.com/Cappta/Cappta.Gp.API.Lazarus.Samples
 
