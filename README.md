@@ -1,4 +1,3 @@
-***Obs: Não utilize a versão 3.4.0.10 em produção pois a mesma é apenas para homologação***
 
 **Olá Desenvolvedor!**
 
